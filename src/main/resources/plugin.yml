@@ -1,0 +1,6 @@
+name: NoSpectatorColor
+version: @version@
+main: com.github.sigureruri.nospectatorcolor.NoSpectatorColor
+api-version: 1.13
+authors: [SigureRuri]
+depend: [ProtocolLib]
